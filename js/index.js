@@ -8,19 +8,12 @@ async function loadImages() {
 
     console.log(json.length + ' images found')
 
-    var random_arr = [];
-    while (true) {
-        let random_no = Math.floor(Math.random() * json.length)
-        if (!random_arr.includes(random_no)) random_arr.push(random_no);
-
-        if (random_arr.length >= num_images) break;
-    }
-
     var image_files = [];
-    random_arr.forEach((i) => {
-        let img_obj = json[i];
-        let img_path = img_obj.category + '/' + img_obj.img_name;
-        image_files.push(img_path);
+    json.forEach((img_obj) => {
+        if (img_obj.index_display) {
+            let img_path = img_obj.category + '/' + img_obj.img_name;
+            image_files.push(img_path);
+        }
     })
 
     const image_container = document.getElementsByClassName('photo-gallery')[0];

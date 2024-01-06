@@ -1,7 +1,8 @@
 [
     {
         "img_name": "s0.png",
-        "category": "anime"
+        "category": "anime",
+        "index_display": true
     },
     {
         "img_name": "s1.png",
@@ -9,11 +10,13 @@
     },
     {
         "img_name": "s2.png",
-        "category": "anime"
+        "category": "anime",
+        "index_display": true
     },
     {
         "img_name": "s3.png",
-        "category": "anime"
+        "category": "anime",
+        "index_display": true
     },
     {
         "img_name": "s4.png",
@@ -29,7 +32,8 @@
     },
     {
         "img_name": "s2.png",
-        "category": "gi"
+        "category": "gi",
+        "index_display": true
     },
     {
         "img_name": "s3.png",
@@ -41,7 +45,8 @@
     },
     {
         "img_name": "s5.png",
-        "category": "gi"
+        "category": "gi",
+        "index_display": true
     },
     {
         "img_name": "s6.png",
@@ -49,7 +54,8 @@
     },
     {
         "img_name": "s0.png",
-        "category": "ss"
+        "category": "ss",
+        "index_display": true
     },
     {
         "img_name": "s1.png",
@@ -57,7 +63,8 @@
     },
     {
         "img_name": "s2.png",
-        "category": "ss"
+        "category": "ss",
+        "index_display": true
     },
     {
         "img_name": "s3.png",
@@ -69,7 +76,8 @@
     },
     {
         "img_name": "s5.png",
-        "category": "ss"
+        "category": "ss",
+        "index_display": true
     },
     {
         "img_name": "s6.png",
