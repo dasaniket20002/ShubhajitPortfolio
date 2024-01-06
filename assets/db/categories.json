@@ -1,0 +1,14 @@
+[
+    {
+        "category_name": "Anime",
+        "category_id": "anime"
+    },
+    {
+        "category_name": "Genshin Impact",
+        "category_id": "gi"
+    },
+    {
+        "category_name": "Screenshots",
+        "category_id": "ss"
+    }
+]
