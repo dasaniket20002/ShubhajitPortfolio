@@ -5,7 +5,7 @@ body .about-me {
   width: 60%;
 }
 body .about-me h1 {
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-size: 1.2rem;
   text-align: center;
@@ -19,7 +19,7 @@ body .about-me hr {
   margin-bottom: 1.5rem;
 }
 body .about-me p {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 200;
   color: white;
   text-align: justify;
@@ -33,7 +33,7 @@ body .about-me p b {
 }
 body .about-me section {
   color: white;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   text-align: end;
   padding-right: 1rem;
 }

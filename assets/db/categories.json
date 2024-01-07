@@ -10,5 +10,9 @@
     {
         "category_name": "Screenshots",
         "category_id": "ss"
+    },
+    {
+        "category_name": "Portfolio",
+        "category_id": "imgs"
     }
 ]

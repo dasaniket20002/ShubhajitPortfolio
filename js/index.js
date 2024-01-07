@@ -31,7 +31,7 @@ async function loadImages() {
     });
     img_elements[0].classList.add('active');
 
-    setInterval(change_image, 5000);
+    setInterval(change_image, 6000);
 }
 
 function change_image() {
