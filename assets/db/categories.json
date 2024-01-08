@@ -1,15 +1,11 @@
 [
     {
-        "category_name": "Anime",
-        "category_id": "anime"
+        "category_name": "Dirt Crush 2.0",
+        "category_id": "dc2"
     },
     {
-        "category_name": "Genshin Impact",
-        "category_id": "gi"
-    },
-    {
-        "category_name": "Screenshots",
-        "category_id": "ss"
+        "category_name": "RE Interceptor 650",
+        "category_id": "re_intr"
     },
     {
         "category_name": "Portfolio",

@@ -1,85 +1,5 @@
 [
     {
-        "img_name": "s0.png",
-        "category": "anime"
-    },
-    {
-        "img_name": "s1.png",
-        "category": "anime"
-    },
-    {
-        "img_name": "s2.png",
-        "category": "anime"
-    },
-    {
-        "img_name": "s3.png",
-        "category": "anime"
-    },
-    {
-        "img_name": "s4.png",
-        "category": "anime"
-    },
-    {
-        "img_name": "s0.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s1.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s2.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s3.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s4.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s5.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s6.png",
-        "category": "gi"
-    },
-    {
-        "img_name": "s0.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s1.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s2.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s3.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s4.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s5.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s6.png",
-        "category": "ss"
-    },
-    {
-        "img_name": "s7.png",
-        "category": "ss"
-    },
-    {
         "img_name": "1_1_11zon.jpg",
         "category": "imgs",
         "index_display": true
@@ -148,5 +68,45 @@
         "img_name": "14_14_11zon.jpg",
         "category": "imgs",
         "index_display": true
+    },
+    {
+        "img_name": "1_1_11zon.jpg",
+        "category": "dc2"
+    },
+    {
+        "img_name": "2_2_11zon.jpg",
+        "category": "dc2"
+    },
+    {
+        "img_name": "3_3_11zon.jpg",
+        "category": "dc2"
+    },
+    {
+        "img_name": "4_4_11zon.jpg",
+        "category": "dc2"
+    },
+    {
+        "img_name": "5_5_11zon.jpg",
+        "category": "dc2"
+    },
+    {
+        "img_name": "6_6_11zon.jpg",
+        "category": "dc2"
+    },
+    {
+        "img_name": "1_1_11zon.jpg",
+        "category": "re_intr"
+    },
+    {
+        "img_name": "2_2_11zon.jpg",
+        "category": "re_intr"
+    },
+    {
+        "img_name": "3_3_11zon.jpg",
+        "category": "re_intr"
+    },
+    {
+        "img_name": "4_4_11zon.jpg",
+        "category": "re_intr"
     }
 ]
