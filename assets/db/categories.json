@@ -10,5 +10,17 @@
     {
         "category_name": "Portfolio",
         "category_id": "imgs"
+    },
+    {
+        "category_name": "Sandbox Music Festival",
+        "category_id": "smf"
+    },
+    {
+        "category_name": "Sports",
+        "category_id": "sports"
+    },
+    {
+        "category_name": "Products",
+        "category_id": "product"
     }
 ]

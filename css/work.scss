@@ -121,9 +121,11 @@
             height: 100%;
 
             cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
 
             img {
-                position: absolute;
                 height: 100%;
 
                 transition: scale 0.1s ease-in-out;
@@ -148,7 +150,7 @@
             img {
                 position: fixed;
                 width: auto;
-                height: 100%;
+                height: 100vh;
 
                 top: 0;
                 left: 50%;
@@ -192,13 +194,15 @@
 
         .gallery {
             .img-container.active {
+                height: 100vh;
+
                 img {
-                    width: 100%;
+                    width: 100vw;
                     height: auto;
 
-                    top: 50%;
+                    top: 0;
                     left: 50%;
-                    transform: translateX(-50%) translateY(-50%);
+                    transform: translateX(-50%);
                 }
             }
         }
